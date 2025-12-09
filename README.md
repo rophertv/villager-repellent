@@ -35,6 +35,13 @@ When you allow a block:
 
 Supports Paper 1.21.x.  
 
+##  Permissions
+- villagerrepellent.repel:
+    - description: Allows repelling villagers from POI blocks.
+    - default: op
+- villagerrepellent.allow:
+    - description: Allows allowing villagers to use POI blocks again.
+    - default: op
 
 ##  Compatibilities/Conflicts
 I'm relatively new to this, so feel free to let me know if this plugin conflicts with any popular plugins and I'll look to correct it!
