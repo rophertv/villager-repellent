@@ -1,5 +1,5 @@
 # VillagerRepellent
-A lightweight Paper plugin that lets you repel villagers from using specific beds, workstations, and other POI locations — works by logging blocks to a list of banned coordinates for villager use. Perfect for keeping villagers out of personal homes, or using workstation blocks as decoration. (No more fishermen in your barrel room!)
+A lightweight Paper plugin that lets you repel villagers from using specific beds and workstations — works by logging blocks to a list of banned coordinates for villager use. Perfect for keeping villagers out of personal homes, or using workstation blocks as decoration. (No more fishermen in your barrel room!)
 
 
 ## Features
